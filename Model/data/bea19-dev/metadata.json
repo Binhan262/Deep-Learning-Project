@@ -1,0 +1,7 @@
+{
+  "name": "bea19-dev",
+  "lang": "en",
+  "split": "dev",
+  "paper_url": "https://aclanthology.org/W19-4406/",
+  "data_url": "https://www.cl.cam.ac.uk/research/nl/bea2019st/data/wi+locness_v2.1.bea19.tar.gz"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fce-test",
+  "lang": "en",
+  "split": "test",
+  "paper_url": "https://aclanthology.org/P11-1019/",
+  "data_url": "https://www.cl.cam.ac.uk/research/nl/bea2019st/data/fce_v2.1.bea19.tar.gz"
+}
